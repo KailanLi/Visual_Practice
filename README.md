@@ -1,3 +1,2 @@
 # Visual_Practice
-Latest Workshop result on Data visulization(Power BI)
-https://app.powerbi.com/view?r=eyJrIjoiYWRjOWJiZGEtZmUxZi00OTc5LTkxYjItZWM1M2Y1MTBkNDdhIiwidCI6ImUzMTI0MThhLWI1ZjgtNDQ5MC05MDg3LWNhZDQ3MDg4ZTM3YyIsImMiOjEwfQ%3D%3D
+
